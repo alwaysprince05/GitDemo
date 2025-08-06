@@ -2,6 +2,7 @@ public class Launch {
 
     public static void main(String[] args) {
         System.out.println("Git & Github");
+        System.out.println("Welcome to the world of version control!");
     }
 
     public void fun(){
